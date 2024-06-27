@@ -1,0 +1,5 @@
+node_modules
+admin/build
+admin/node_modules
+package-lock.json
+.env
