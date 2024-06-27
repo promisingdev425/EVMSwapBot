@@ -1,5 +1,5 @@
 # TeleSwap Bot
-TeleSwapRobot
+Telegram Dex using Telegram WebApp like Uniswap
 
 ### product mode
 ```
